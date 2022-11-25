@@ -50,7 +50,7 @@ Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo int
 DEBEMOS CONECTAR LAS PUNTAS DEL RESISTOR 8 CON LA PUNTA DEL RESISTOR 7,
 LA PUNTA DEL RESISTOR 4 CON LA DEL 5 Y LA PUNTA DEL RESISTOR 2 CON LA DEL 6
 
-4.	Determine la resistencia nominal presente entre las puntas 2 y 3 del circuito de la figura 5-68. 
+4.Determine la resistencia nominal presente entre las puntas 2 y 3 del circuito de la figura 5-68. 
 
 ![image](https://user-images.githubusercontent.com/116816731/203908151-5f71535b-d7be-4b09-91a2-a16775a85ff2.png)
 
@@ -58,11 +58,11 @@ LA PUNTA DEL RESISTOR 4 CON LA DEL 5 Y LA PUNTA DEL RESISTOR 2 CON LA DEL 6
 
 SECCIÓN 5–2 CORRIENTE EN UN CIRCUITO EN SERIE
 
-6.	¿Cuál es la corriente a través de cada resistor dispuesto en un circuito en serie si el voltaje total es de 12 V y la resistencia total de 120 Ω? 
+6.¿Cuál es la corriente a través de cada resistor dispuesto en un circuito en serie si el voltaje total es de 12 V y la resistencia total de 120 Ω? 
 
 ![image](https://user-images.githubusercontent.com/116816731/203908268-6f6c2123-e166-4b86-8216-9ffc8c6c572d.png)
 
-8.	Muestre cómo conectar una fuente de voltaje y un amperímetro a la tarjeta de circuito impreso ilustrada en la figura 5-68 para medir la corriente en R1. ¿Qué otras corrientes de resistor se miden con esta configuración? 
+8.Muestre cómo conectar una fuente de voltaje y un amperímetro a la tarjeta de circuito impreso ilustrada en la figura 5-68 para medir la corriente en R1. ¿Qué otras corrientes de resistor se miden con esta configuración? 
 
 ![image](https://user-images.githubusercontent.com/116816731/203908309-11cb695c-102a-4afc-9153-87f91a022007.png)
 
@@ -377,19 +377,17 @@ d) 1 y 4 R2
 https://www.youtube.com/watch?v=1aPGR9RRweC
 
 5. CONCLUSIONES
-• El circuito en serie proporciona una sola trayectoria para el paso de la corriente y la corriente es la misma a través de cada resistencia mientras que el circuito en paralelo proporciona más de una trayectoria a la corriente y el voltaje a través de cualquier rama de un circuito paralelo es igual a cada una de las dos ramas e paralelo
 
-• En la resolución de los ejercicios pares del libro “Principios de circuitos eléctricos” de Floyd, se aplicó lo comprendido entre los capítulos 5 y 6, donde comprobamos lo importante que es diferenciar los conceptos de un circuito en serie y un circuito en paralelo para resolver problemas con respecto a esto.
+• El circuito en serie proporciona una sola trayectoria para el paso de la corriente y la corriente es la misma a través de cada resistencia 
 
-• La diferencia entre el circuito en serie y un circuito en paralelo es que en el circuito en serie la corriente total es igual para todo el circuito es decir que por cada resistencia para la misma cantidad de corriente en cambio en el circuito en paralelo el voltaje total es el mismo para todo el circuito.
+• El circuito en paralelo proporciona más de una trayectoria a la corriente y el voltaje a través de cualquier rama de un circuito paralelo es igual a cada una de las dos ramas e paralelo
 
-• Con el aprendizaje de estas unidades se puede hacer un correcto manejo de la Ley de Ohm.
+• En el circuito en serie la corriente es igual para todo el circuito mientras que en el circuito paralelo es el voltaje.
 
-• Fue necesario conocimientos previos para la realización de estos ejercicios, como Leyes de Kirchoff y la ley de Ohm.
+• Para concluir definimos sus caracterisiticas y diferencias de cada circuito y aplicamos formulas ya antes conocidad como ley de ohm y leyes de kirchhooff 
 
-• En un circuito en paralelo la resistencia total es menor que la sumatoria de las resistencias del circuito completo: mientras más receptores, menor resistencia.
+6. Bibliografía}
 
-6. Bibliografía
 Floyd, T. (2007). Principios de circuitos electricos . PEARSON Educación. https://drive.google.com/file/d/1cGAWCJ4-yhAe1LyAXvmOeUhEmQVLy-zv/view
 
 
