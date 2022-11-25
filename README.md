@@ -374,7 +374,8 @@ c) 3 y 4 no tienen conexión
 d) 1 y 4 R2
 
 4. VIDEO
-https://www.youtube.com/watch?v=1aPGR9RRweC
+
+https://youtu.be/2gWoNOOEGEg
 
 5. CONCLUSIONES
 
