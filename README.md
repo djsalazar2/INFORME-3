@@ -18,7 +18,6 @@
 
  ## CAPITULO 5: CIRCUITOS EN SERIE:
 
-
 ![image](https://user-images.githubusercontent.com/116816731/203867554-779d70ef-2a96-4c36-a9d5-15d4124b7340.png)
 
 ![image](https://user-images.githubusercontent.com/116816731/203868483-52b68cd0-ce19-4f2f-92e8-e831f963a3f7.png)
@@ -26,6 +25,17 @@
 ![image](https://user-images.githubusercontent.com/116816731/203907226-26b63c79-92cb-4bce-ade5-79302b0985f1.png)
 
 ![image](https://user-images.githubusercontent.com/116816731/203907260-166fa31f-32c9-4410-b406-e986a93988b5.png)
+
+ CAPITULO 6: CIRCUITOS EN PARALELO:
+
+![image](https://user-images.githubusercontent.com/116816731/203915934-564b2717-018e-4d7f-8277-44c201e45a5b.png)
+
+![image](https://user-images.githubusercontent.com/116816731/203915977-d96f2a6a-1f5c-4629-b57e-8154da346e31.png)
+
+![image](https://user-images.githubusercontent.com/116816731/203916012-b0539f4e-82c5-4a54-82d8-b164141c0f4c.png)
+
+![image](https://user-images.githubusercontent.com/116816731/203916064-e8bbad63-87de-4310-b454-a4ed6895d763.png)
+
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
